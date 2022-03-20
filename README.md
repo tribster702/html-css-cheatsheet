@@ -1,1 +1,3 @@
-# html-css-cheatsheet project for codecademy full-stack engineer path
+# html-css-cheatsheet
+
+project for codecademy full-stack engineer path
